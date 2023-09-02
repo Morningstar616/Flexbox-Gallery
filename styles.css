@@ -41,11 +41,11 @@ body {
   flex-direction: column;
 }
 
-.panel1 { background-image:url(pic1.jpg); }
-.panel2 { background-image:url(pic2.jpg); }
-.panel3 { background-image:url(pic3.jpg); }
-.panel4 { background-image:url(pic.jpg); }
-.panel5 { background-image:url(pic5.jpg); }
+.panel1 { background-image:url(images/pic1.jpg); }
+.panel2 { background-image:url(images/pic2.jpg); }
+.panel3 { background-image:url(images/pic3.jpg); }
+.panel4 { background-image:url(images/pic.jpg); }
+.panel5 { background-image:url(images/pic5.jpg); }
 
 /* Flex Items */
 .panel > * {
